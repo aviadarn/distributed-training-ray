@@ -1,4 +1,4 @@
-# Ray Distributed YOLO12 Object Detection Example
+# Ray Distributed Ultralytics Example
 
 This repository contains an end-to-end **example project** for distributed object-detection training with **Ray** and **Ultralytics YOLO12**. It includes:
 
